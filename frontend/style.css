@@ -114,3 +114,15 @@ footer {
 footer strong { color: var(--accent); }
 
 .small { font-size: 0.85rem; margin-top: 4px; }
+
+.card { display: flex; flex-direction: column; }
+
+.card-link {
+  margin-top: auto;
+  padding-top: 12px;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card-link:hover { text-decoration: underline; }
