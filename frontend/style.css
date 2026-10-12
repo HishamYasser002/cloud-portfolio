@@ -126,3 +126,6 @@ footer strong { color: var(--accent); }
 }
 
 .card-link:hover { text-decoration: underline; }
+
+.card-links { margin-top: auto; display: flex; gap: 16px; flex-wrap: wrap; }
+.card-links .card-link { margin-top: 0; }
