@@ -86,7 +86,7 @@ Because of the region policy, I checked which allowed regions support the Flex C
 - [x] Visitor counter API (Azure Functions + Table Storage, managed identity)
 - [x] Deploy the API from GitHub Actions, with tests running first
 - [ ] Infrastructure as code with Terraform
-- [ ] Monitoring and alerts with Application Insights
+- [x] Monitoring and alerts with Application Insights
 
 ## Connect
 
